@@ -1,0 +1,39 @@
+_repo: Island-Life--Or-The-Phenomena-and-Causes-of-Insular-Faunas-and-Floras_32021
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, Russell
+    - Wallace, A. R. (Alfred Russel)
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: Alfred Russel Wallace is best known as the codiscoverer, with Charles
+  Darwin, of natural selection, but he was also history's foremost tropical naturalist
+  and the father of biogeography, the modern study of the geographical basis of biological
+  diversity. Island Life has long been considered one of his most important works.
+  In it he extends studies on the influence of the glacial epochs on organismal distribution
+  patterns and the characteristics of island biogeography, a topic as vibrant and
+  actively studied today as it was in 1880. The book includes history's first theory
+  of contin.
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glacial epoch'
+- !lcsh 'Biogeography'
+- !lcc 'QH'
+- !lcsh 'Island ecology'
+title: Island Life; Or, The Phenomena and Causes of Insular Faunas and Floras
+url: http://www.gutenberg.org/ebooks/32021
